@@ -1,0 +1,2 @@
+# Facial keypoint detection
+Many application used by every people in our days use a machine learning task call **Face detection** which is the task of automatically finding faces in images containing people. In this project, we will see how creating a face detection, the main algorithm used for the face recognition, emotion recognition and so on.
